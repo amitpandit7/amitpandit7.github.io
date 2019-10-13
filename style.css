@@ -30,7 +30,7 @@ html {
     border-style: 1px solid black;
 }
 
-.btn-work {
+.btn {
     width: 150px;
     height: 55px;
     margin: auto;
@@ -40,8 +40,4 @@ html {
     text-align: center;
     background-color: #000;
     border-color: #fff;
-}
-
-.wrapper {
-    text-align: center;
 }
