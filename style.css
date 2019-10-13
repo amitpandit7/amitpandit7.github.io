@@ -30,12 +30,12 @@ html {
     border-style: 1px solid black;
 }
 
-.btn {
+.btn-work {
     width: 150px;
     height: 55px;
-    margin: auto;
+    margin: 0 auto;
     padding: 0;
-    display: block;
+    display: inline-block;
     line-height: 50px;
     text-align: center;
     background-color: #000;
