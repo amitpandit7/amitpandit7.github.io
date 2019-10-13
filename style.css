@@ -33,9 +33,9 @@ html {
 .btn-work {
     width: 150px;
     height: 55px;
-    margin: 0 auto;
+    margin: auto;
     padding: 0;
-    display: inline-block;
+    display: block;
     line-height: 50px;
     text-align: center;
     background-color: #000;
