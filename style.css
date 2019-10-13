@@ -41,3 +41,8 @@ html {
     background-color: #000;
     border-color: #fff;
 }
+
+p {
+    color: white;
+    font-size: =18px;
+}
