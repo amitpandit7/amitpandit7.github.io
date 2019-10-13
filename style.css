@@ -41,3 +41,7 @@ html {
     background-color: #000;
     border-color: #fff;
 }
+
+.wrapper {
+    text-align: center;
+}
